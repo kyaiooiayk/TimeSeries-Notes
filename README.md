@@ -51,7 +51,7 @@ ANNs_CNNs_RNNs_LSTM
 - NARX
 - Partially recurrent NNs - Elman and Jordan NNs
 - Prepare data for LSTM
-- Predicing a slowly decaying trend with multi-step LSTM Models
+- Making out-of-sample prediction with a multi-step LSTM Models
 - Price forecasting with RNNs
 - Stacked LSTM
 - Time series prediction with multilayer perceptrons & LSTM
