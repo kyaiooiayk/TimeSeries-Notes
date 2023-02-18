@@ -34,6 +34,7 @@ ARIMA_and_similars
 - How to Make Out-of-Sample Forecasts with ARIMA
 - Uncertainity for ARIMA model
 - SARIMA vs. SARIMAX
+- Predict electricity consumption over 5 yrs using ARIMA
 
 ANNs_CNNs_RNNs_LSTM
 - CNN LSTM applied to univariate timeseries
