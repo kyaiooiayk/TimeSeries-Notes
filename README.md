@@ -95,3 +95,11 @@ Each notebook has two versions (all python scripts are unaffected by this):
 ## Literature review
 - [Papers & blogs](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Literature_Review/Timeseries.md)
 ***
+
+## Blog articles
+- [Time-Series Forecasting: Deep Learning vs Statistics — Who Wins?](https://towardsdatascience.com/time-series-forecasting-deep-learning-vs-statistics-who-wins-c568389d02df)
+***
+
+## Notes
+- [Notes](https://drive.google.com/drive/u/1/folders/1rPzOvJY3jlDH35hYYQAseg_m2rtgFj6d)
+***
