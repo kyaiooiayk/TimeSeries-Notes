@@ -92,6 +92,23 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - One where all the markdown comments are rendered in coloured.
 ***
 
+## A list of methods/libraries used in timeseries forecasting
+- [ARIMA (method)](https://bytepawn.com/ask-hn-data-scientists-what-libraries-do-you-use-for-timeseries-forecasting.html#ask-hn-data-scientists-what-libraries-do-you-use-for-timeseries-forecasting)
+- [Exponential smoothing (method)](https://en.wikipedia.org/wiki/Exponential_smoothing)
+- [Darts](https://github.com/unit8co/darts)
+- [Prophet](https://github.com/facebook/prophet)
+- [Stan: a statistical library used internally by Prophet](https://mc-stan.org/)
+- XGBoost: how to use XGBoost's regressor to build a timeseries forecast
+- LightGBM: how to use LightGBM's regressor to build a timeseries forecast
+- [PyTorch-forecasting](https://github.com/jdb78/pytorch-forecasting)
+- [Pmdarima](https://github.com/alkaline-ml/pmdarima)
+- [State Space Model and Kalman Filters](https://towardsdatascience.com/state-space-model-and-kalman-filter-for-time-series-prediction-basic-structural-dynamic-linear-2421d7b49fa6)
+- [Pybsts: stands for Python Bayesian Structural Time Series](https://pypi.org/project/pybsts/)
+- [Sktime](https://github.com/sktime/sktime)
+- [Tsfresh: timeseries feature extraction](https://github.com/blue-yonder/tsfresh)
+- [statsmodels for timeseries forecasting](https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_forecasting.html)
+***
+
 ## Literature review
 - [Papers & blogs](https://github.com/kyaiooiayk/Awesome-Data-Science-Machine-Learning-Resources/blob/main/resources/Literature_Review/Timeseries.md)
 ***
