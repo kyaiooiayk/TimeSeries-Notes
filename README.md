@@ -115,6 +115,7 @@ Each notebook has two versions (all python scripts are unaffected by this):
 
 ## Blog articles
 - [Time-Series Forecasting: Deep Learning vs Statistics — Who Wins?](https://towardsdatascience.com/time-series-forecasting-deep-learning-vs-statistics-who-wins-c568389d02df)
+- [The explosion in time series forecasting packages in data science](https://aeturrell.com/blog/posts/time-series-explosion/?utm_source=substack&utm_medium=email)
 ***
 
 ## Notes
